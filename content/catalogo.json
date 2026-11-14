@@ -140,6 +140,14 @@
       "nombre": "Velas dinosaurios ",
       "precio": "7.000",
       "descripcion": "Velas souvenirs dinosaurios "
+    },
+    {
+      "visible": true,
+      "nombre": "Velas de mariposas ",
+      "precio": "7.000",
+      "descripcion": "Velas souvenirs personalizados ",
+      "imagen_alt": "Velas mariposas ",
+      "ref": "Color a elección "
     }
   ]
 }
