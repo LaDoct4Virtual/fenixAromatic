@@ -134,6 +134,12 @@
       "visible": true,
       "nombre": "Vela mariposa ",
       "precio": "7.000"
+    },
+    {
+      "visible": true,
+      "nombre": "Velas dinosaurios ",
+      "precio": "7.000",
+      "descripcion": "Velas souvenirs dinosaurios "
     }
   ]
 }
