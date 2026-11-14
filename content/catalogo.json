@@ -129,6 +129,11 @@
       "descripcion": "Un recuerdo moderno, delicado y super sofisticado para sorprender a tus invitados. ✨💜",
       "imagen": "/img/14.jpeg",
       "imagen_alt": "Velas en frascos de vidrio acanalado con flores violetas y moño lila"
+    },
+    {
+      "visible": true,
+      "nombre": "Vela mariposa ",
+      "precio": "7.000"
     }
   ]
 }
