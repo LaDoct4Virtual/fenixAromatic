@@ -165,6 +165,13 @@
       "nombre": "Souvenirs  Ángel ",
       "precio": "$7.000",
       "descripcion": "Velas Ángel personalizado "
+    },
+    {
+      "visible": true,
+      "imagen": "/img/2a463851-d883-4373-a5e3-698ef51ba69b.jpeg",
+      "nombre": "Angel para comunión ",
+      "precio": "$7.000",
+      "descripcion": "Velas con diseños de ángel  podes elegir modelos , color.fragancia a elección "
     }
   ]
 }
