@@ -151,6 +151,13 @@
       "imagen_alt": "Velas mariposas ",
       "ref": "Color a elección ",
       "imagen": "/img/img_3892.jpeg"
+    },
+    {
+      "visible": true,
+      "imagen": "/img/img_3393.jpeg",
+      "nombre": "Velas virgen ",
+      "precio": "7.000",
+      "descripcion": "Velas virgen para comunión bautismo y más "
     }
   ]
 }
