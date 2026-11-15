@@ -158,6 +158,13 @@
       "nombre": "Velas virgen ",
       "precio": "7.000",
       "descripcion": "Velas virgen para comunión bautismo y más "
+    },
+    {
+      "visible": true,
+      "imagen": "/img/b63e63e0-e9df-491a-a092-59010e519951.jpeg",
+      "nombre": "Souvenirs  Ángel ",
+      "precio": "$7.000",
+      "descripcion": "Velas Ángel personalizado "
     }
   ]
 }
