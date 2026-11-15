@@ -172,6 +172,13 @@
       "nombre": "Angel para comunión ",
       "precio": "$7.000",
       "descripcion": "Velas con diseños de ángel  podes elegir modelos , color.fragancia a elección "
+    },
+    {
+      "visible": true,
+      "nombre": "Velas Busquet",
+      "precio": "Velas busquet personalidos",
+      "imagen": "/img/img_1369.jpeg",
+      "descripcion": "Estás buscando algo especial ideal para souvenirs o regalo "
     }
   ]
 }
