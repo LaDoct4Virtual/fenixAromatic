@@ -6,15 +6,6 @@
   "productos": [
     {
       "visible": true,
-      "ref": "FA-001",
-      "nombre": "Velas ositos ",
-      "precio": "$ 7.000",
-      "descripcion": "Velas ositos ideales para fiestas infantiles, baby shower y más",
-      "imagen": "/img/97caeae5-9382-4e62-b049-2c13d18095c7.jpeg",
-      "imagen_alt": "Velas en vasos de vidrio redondos con rosa roja de cera y etiqueta Mis XV"
-    },
-    {
-      "visible": true,
       "ref": "FA-002",
       "nombre": "Ramitos aromáticos",
       "precio": "$ 4.500",
@@ -186,6 +177,13 @@
       "precio": "$12.000",
       "descripcion": "Centro de mesa personalizado ",
       "imagen": "/img/img_2359.jpeg"
+    },
+    {
+      "visible": true,
+      "nombre": "Centro de mesa ",
+      "precio": "$12.000",
+      "descripcion": "Color y fragancia a elección ",
+      "imagen": "/img/img_2361.jpeg"
     }
   ]
 }
