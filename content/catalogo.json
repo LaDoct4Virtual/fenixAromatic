@@ -6,15 +6,6 @@
   "productos": [
     {
       "visible": true,
-      "ref": "FA-003",
-      "nombre": "Velas corona",
-      "precio": "$ 5.500",
-      "descripcion": "Elegí el color de la cera, los apliques brillantes, la fragancia y el diseño de la etiqueta a tu gusto.",
-      "imagen": "/img/03.jpeg",
-      "imagen_alt": "Velas en vasitos con forma de corona y cera verde, con etiqueta Mis XV"
-    },
-    {
-      "visible": true,
       "ref": "FA-004",
       "nombre": "Centros de mesa",
       "precio": "$ 35.000",
