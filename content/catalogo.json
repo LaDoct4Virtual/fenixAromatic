@@ -6,15 +6,6 @@
   "productos": [
     {
       "visible": true,
-      "ref": "FA-002",
-      "nombre": "Ramitos aromáticos",
-      "precio": "$ 4.500",
-      "descripcion": "Souvenirs para bodas, bautismos, comuniones y eventos especiales.",
-      "imagen": "/img/02.jpeg",
-      "imagen_alt": "Ramitos aromáticos de arpillera con rosas de cera y flores secas"
-    },
-    {
-      "visible": true,
       "ref": "FA-003",
       "nombre": "Velas corona",
       "precio": "$ 5.500",
