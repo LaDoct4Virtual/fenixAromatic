@@ -179,6 +179,13 @@
       "precio": "Velas busquet personalidos",
       "imagen": "/img/img_1369.jpeg",
       "descripcion": "Estás buscando algo especial ideal para souvenirs o regalo "
+    },
+    {
+      "visible": true,
+      "nombre": "Velas centro de mesa ",
+      "precio": "$12.000",
+      "descripcion": "Centro de mesa personalizado ",
+      "imagen": "/img/img_2359.jpeg"
     }
   ]
 }
