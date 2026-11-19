@@ -6,15 +6,6 @@
   "productos": [
     {
       "visible": true,
-      "ref": "FA-005",
-      "nombre": "Velas bicapa en azul",
-      "precio": "$ 10.000",
-      "descripcion": "Elegí el tono de la base (azul, rosa, verde, bordó), la fragancia y el texto del estampado a tu gusto.",
-      "imagen": "/img/05.jpeg",
-      "imagen_alt": "Velas bicapa en vaso de vidrio, azul y marfil, con el texto Mis XV"
-    },
-    {
-      "visible": true,
       "ref": "FA-006",
       "nombre": "Velas aromáticas con flores",
       "precio": "$ 6.000",
@@ -164,6 +155,13 @@
       "precio": "$12.000",
       "descripcion": "Hermosa vela Rapunzel ",
       "imagen": "/img/47738a81-8216-44d5-a30f-34025abd7d2f.png"
+    },
+    {
+      "visible": true,
+      "imagen": "/img/47738a81-8216-44d5-a30f-34025abd7d2f.png",
+      "nombre": "Velas Rampunzel",
+      "precio": "$10.000",
+      "descripcion": "Hermosos souvenirs temáticas Rampuzel  puede ser combinado "
     }
   ]
 }
