@@ -87,9 +87,10 @@
     },
     {
       "visible": true,
-      "nombre": "Vela mariposa ",
-      "precio": "7.000",
-      "imagen": "/img/beb19b3c-84cc-46fa-8a64-dc2c0f026c1f.png"
+      "nombre": "Velas pecera ",
+      "precio": "$6.500",
+      "imagen": "/img/beb19b3c-84cc-46fa-8a64-dc2c0f026c1f.png",
+      "descripcion": "Hermosos velas pecera con rosas rojas colór a elección "
     },
     {
       "visible": true,
