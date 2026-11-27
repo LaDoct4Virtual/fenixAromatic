@@ -163,6 +163,13 @@
       "nombre": "Velas Rampunzel",
       "precio": "$10.000",
       "descripcion": "Hermosos souvenirs temáticas Rampuzel  puede ser combinado "
+    },
+    {
+      "visible": true,
+      "nombre": "Vaso imperial ",
+      "precio": "$7.500",
+      "imagen": "/img/f5ff0cd4-d880-4253-8c2d-6e242bde7a94.jpeg",
+      "descripcion": "Souvenirs en vasos imperial elegante, delicado para cualquier acontecimiento "
     }
   ]
 }
